@@ -1,0 +1,279 @@
+/*
+	@name the_nutritionist
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1280px;  margin-left: auto; margin-right: auto;  }
+
+#_bg__imac___1 {
+	top: 0px;
+	left: 0px;
+	width: 1280px;
+	height: 720px;
+	background:rgba(255,255,255,1);
+}
+
+
+#ellipse_3 {
+	top: -666px;
+	left: 467px;
+	width: 1178px;
+	height: 1178px;
+	-ms-border-radius: 588px / 588px;
+	-o-border-radius: 588px / 588px;
+	-moz-border-radius: 588px / 588px;
+	-webkit-border-radius: 588px / 588px;
+	border-radius: 588px / 588px;
+	border: 1px solid #54784e;
+	background:rgba(199.72,225.1,54.17,1);
+}
+
+
+#_32_best_dumpling_recipes__chinese__chicken__japanese_gyoza__potstickers___more__1____copy_1 {
+	top: 36px !important;
+	position: absolute !important;
+	left: 103px;
+	width: 45px;
+	height: 44px;
+	background:url(skins/_32_best_dumpling_recipes__chinese__chicken__japanese_gyoza__potstickers___more__1____copy_1.png);
+	background-size:cover;
+}
+
+
+#mask_group {
+	top: -663px !important;
+	position: absolute !important;
+	left: 467px;
+	width: 1176px;
+	height: 1176px;
+	background:url(skins/mask_group.png);
+	background-size:cover;
+}
+
+
+#the_nutritionist {
+	top: 42px;
+	left: 178px;
+	width: 171px;
+	height: 40px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+
+#frame_1 {
+	top: 47px;
+	left: 538px;
+	width: 278px;
+	height: 21px;
+}
+
+#breakfast {
+	top: 0px;
+	left: 0px;
+	width: 87px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#lunch {
+	top: 0px;
+	left: 129px;
+	width: 58px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#dinner {
+	top: 0px;
+	left: 229px;
+	width: 61px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: left;
+	color:#000000;
+}
+
+#lock {
+	top: 36px;
+	left: 1153px;
+	width: 24px;
+	height: 24px;
+}
+
+#vector {
+	top: 11px !important;
+	position: absolute !important;
+	left: 3px;
+	width: 18px;
+	height: 11px;
+	background:url(skins/vector.png);
+	background-size:cover;
+}
+
+
+#vector_ek1 {
+	top: 2px !important;
+	position: absolute !important;
+	left: 7px;
+	width: 10px;
+	height: 9px;
+	background:url(skins/vector_ek1.png);
+	background-size:cover;
+}
+
+
+#garlic_butter_chicken_bites_with_lemon_asparagus {
+	top: 360px !important;
+	position: absolute !important;
+	left: 873px;
+	width: 137px;
+	height: 213px;
+	background:url(skins/garlic_butter_chicken_bites_with_lemon_asparagus.png);
+	background-size:cover;
+}
+
+#explantion {
+	top: 241px;
+	left: 103px;
+	width: 435px;
+	height: 298px;
+}
+
+#yummy {
+	top: 0px;
+	left: 0px;
+	width: 205px;
+	height: 106px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 48px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#eat_healthy_your_diet_is_a_bank_account {
+	top: 81px;
+	left: 0px;
+	width: 458px;
+	height: 129px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 36px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#welcome_to_our_website_where_we_make_sure_that_you_eat_nothing_but_the_best_providing_you_the_best_options_from_all_around_the_world_with_a_top_notch_diet_plan__take_a_look_around_and_if_you_like_what_you_see_lsign_up_and_subscribe_to_our_monthly_plan_ {
+	top: 194px;
+	left: 0px;
+	width: 418px;
+	height: 114px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: left;
+	color:#000000;
+}
+
+#button {
+	top: 564px;
+	left: 121px;
+	width: 154px;
+	height: 45px;
+}
+
+#button_ek1 {
+	top: 9px;
+	left: 18px;
+	width: 132px;
+	height: 40px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#garlic_butter_steak_bites_with_lemon_zucchini_noodles {
+	top: 141px !important;
+	position: absolute !important;
+	left: 941px;
+	width: 84px;
+	height: 100px;
+	background:url(skins/garlic_butter_steak_bites_with_lemon_zucchini_noodles.png);
+	background-size:cover;
+}
+
+
+#garlic_mushrooms_cauliflower_skillet {
+	top: 160px !important;
+	position: absolute !important;
+	left: 812px;
+	width: 61.43px;
+	height: 100px;
+	background:url(skins/garlic_mushrooms_cauliflower_skillet.png);
+	background-size:cover;
+}
+
+
+#easy_saucy_ramen_noodles__vegan_recipe_ {
+	top: 210px !important;
+	position: absolute !important;
+	left: 1082px;
+	width: 71.1px;
+	height: 100px;
+	background:url(skins/easy_saucy_ramen_noodles__vegan_recipe_.png);
+	background-size:cover;
+}
+
+
+#_25_easy_meal_prep_ideas_for_when_you_have_no_idea_what_to_cook___copy {
+	top: 260px !important;
+	position: absolute !important;
+	left: 694px;
+	width: 47.86px;
+	height: 100px;
+	background:url(skins/_25_easy_meal_prep_ideas_for_when_you_have_no_idea_what_to_cook___copy.png);
+	background-size:cover;
+}
+
+
+#asado_chicken_and_sauteed_lemon_zucchini {
+	top: 366px !important;
+	position: absolute !important;
+	left: 1139px;
+	width: 75.97px;
+	height: 100px;
+	background:url(skins/asado_chicken_and_sauteed_lemon_zucchini.png);
+	background-size:cover;
+}
+
+
+
+/* Add your custom CSS here */
